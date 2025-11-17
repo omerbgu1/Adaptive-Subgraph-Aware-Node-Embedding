@@ -22,7 +22,6 @@ This raises the core question: **Can we learn one embedding to rule them all?**
 ## Experimental Results
 
 - Examined Datasets: Cora, CiteSeer and PubMed.
--
 
 ![results_slide.png](resources/images_for_readme/results_slide.png)
 
